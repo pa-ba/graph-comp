@@ -1,4 +1,4 @@
-# Proving Correctness of Compilers Using Structured Graphs [![Build Status](https://travis-ci.org/pa-ba/graph-comp.svg?branch=master)](https://travis-ci.org/pa-ba/graph-comp)
+# Proving Correctness of Compilers Using Structured Graphs [![Build Status](https://travis-ci.org/pa-ba/graph-comp.svg?branch=master)](https://travis-ci.org/pa-ba/graph-comp) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17266.svg)](http://dx.doi.org/10.5281/zenodo.17266)
 
 
 Coq proofs for the paper
